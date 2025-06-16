@@ -60,12 +60,15 @@
    ## Уточнение:
    > В валидационной выборке были рандомные серии, но строго разных сериалов, для примеров я тыкнул первые попавшиеся.
 
-6. **Оценка**:
+5. **Оценка**:
    - Метрики: Accuracy, Precision, Recall, F1, ROC-AUC.
    - Подсчёт по заранее сохранённым признакам (без видео, быстро).
+   
    ![image](https://github.com/user-attachments/assets/fca9a79a-e9a7-4086-bb70-c7eac4751799)
 
+
    ![image](https://github.com/user-attachments/assets/03275201-b0bf-49b8-8e7e-770533517ce5)
+
    
    ![image](https://github.com/user-attachments/assets/9abc7005-50f8-4c6a-a22d-09c86ffae6f9)
 
